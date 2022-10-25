@@ -20,6 +20,10 @@ body {
     padding: 10px;
 }
 
+.manu .fas {
+    transition: transform 0.1s;
+}
+
 .manu p {
     margin: 0 10px;
 }
